@@ -1,0 +1,13 @@
+{
+  "defaultProject": "main-app",
+  "projects": {
+    "main-app": {
+      "name": "main-app",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular-standalone",
+      "root": "apps/main-app"
+    }
+  }
+}
